@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 07/05/17 00:25:22 by SUMO duarouter Version 0.24.0
+<!-- generated on 07/05/17 00:32:10 by SUMO duarouter Version 0.24.0
 <?xml version="1.0" encoding="UTF-8"?>
 
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
@@ -17,7 +17,7 @@
 
     <time>
         <begin value="0"/>
-        <end value="600"/>
+        <end value="509"/>
     </time>
 
 </configuration>
