@@ -1,0 +1,196 @@
+<additional>
+	<vType id="BUS" color="1,1,1" guiShape="bus"/>
+
+	<vehicle id="0" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="3/1to3/0"/>
+		<stop lane="3/1to3/0_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="1" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/3to2/2"/>
+		<stop lane="2/3to2/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="2" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/1to2/1"/>
+		<stop lane="1/1to2/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="3" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="0/1to0/0"/>
+		<stop lane="0/1to0/0_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="4" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="3/1to3/2"/>
+		<stop lane="3/1to3/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="5" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/1to3/1"/>
+		<stop lane="2/1to3/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="6" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/3to2/3"/>
+		<stop lane="1/3to2/3_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="9" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/1to0/1"/>
+		<stop lane="1/1to0/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="11" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="0/2to0/3"/>
+		<stop lane="0/2to0/3_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="13" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="3/3to2/3"/>
+		<stop lane="3/3to2/3_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="14" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="3/3to3/2"/>
+		<stop lane="3/3to3/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="15" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/1to1/2"/>
+		<stop lane="1/1to1/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="16" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/2to2/2"/>
+		<stop lane="1/2to2/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="18" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="0/0to0/1"/>
+		<stop lane="0/0to0/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="19" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/2to1/1"/>
+		<stop lane="1/2to1/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="21" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/0to3/0"/>
+		<stop lane="2/0to3/0_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="23" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/2to3/2"/>
+		<stop lane="2/2to3/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="24" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/2to2/1"/>
+		<stop lane="2/2to2/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="25" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/2to2/3"/>
+		<stop lane="2/2to2/3_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="26" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/2to0/2"/>
+		<stop lane="1/2to0/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="28" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="3/0to2/0"/>
+		<stop lane="3/0to2/0_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="32" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="0/1to1/1"/>
+		<stop lane="0/1to1/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="34" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="0/0to1/0"/>
+		<stop lane="0/0to1/0_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="35" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="0/3to1/3"/>
+		<stop lane="0/3to1/3_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="36" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="3/1to2/1"/>
+		<stop lane="3/1to2/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="41" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="0/2to1/2"/>
+		<stop lane="0/2to1/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="42" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/0to1/1"/>
+		<stop lane="1/0to1/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="43" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/1to2/0"/>
+		<stop lane="2/1to2/0_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="46" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/1to1/1"/>
+		<stop lane="2/1to1/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="48" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/0to1/0"/>
+		<stop lane="2/0to1/0_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="49" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/0to2/1"/>
+		<stop lane="2/0to2/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="52" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/2to1/2"/>
+		<stop lane="2/2to1/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="59" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/1to2/2"/>
+		<stop lane="2/1to2/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="62" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="3/2to3/1"/>
+		<stop lane="3/2to3/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="64" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/3to1/3"/>
+		<stop lane="2/3to1/3_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="73" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="3/0to3/1"/>
+		<stop lane="3/0to3/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="79" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="0/2to0/1"/>
+		<stop lane="0/2to0/1_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="80" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/3to1/2"/>
+		<stop lane="1/3to1/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="88" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="3/2to3/3"/>
+		<stop lane="3/2to3/3_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="91" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/0to0/0"/>
+		<stop lane="1/0to0/0_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="102" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/2to1/3"/>
+		<stop lane="1/2to1/3_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="104" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/1to1/0"/>
+		<stop lane="1/1to1/0_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="109" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/3to0/3"/>
+		<stop lane="1/3to0/3_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="120" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="0/1to0/2"/>
+		<stop lane="0/1to0/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="121" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="0/3to0/2"/>
+		<stop lane="0/3to0/2_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="122" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="1/0to2/0"/>
+		<stop lane="1/0to2/0_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="123" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="2/3to3/3"/>
+		<stop lane="2/3to3/3_0" endPos="500" until="400"/>
+	</vehicle>
+	<vehicle id="124" type="BUS" depart="0" departPos="500" color="1,1,1">
+		<route edges="3/2to2/2"/>
+		<stop lane="3/2to2/2_0" endPos="500" until="400"/>
+	</vehicle>
+</additional>
