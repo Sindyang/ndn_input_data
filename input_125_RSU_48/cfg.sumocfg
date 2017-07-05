@@ -9,7 +9,11 @@
 
     <time>
         <begin value="0"/>
+<<<<<<< HEAD:input_125_RSU_48/cfg.sumocfg
         <end value="400"/>
+=======
+        <end value="640"/>
+>>>>>>> c1cb7d1b56503a969f94f69c2dda1857a70e2e5e:input_200_RSU/cfg.sumocfg
     </time>
 
 </configuration>
