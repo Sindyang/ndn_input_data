@@ -17,7 +17,7 @@
 
     <time>
         <begin value="0"/>
-        <end value="600"/>
+        <end value="667"/>
     </time>
 
 </configuration>
@@ -30,195 +30,195 @@
     <vType id="BUS" guiShape="bus" color="white"/>
     <vehicle id="400" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="3/1to3/0"/>
-        <stop lane="3/1to3/0_0" endPos="500.00" until="600.00"/>
+        <stop lane="3/1to3/0_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="401" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/3to2/2"/>
-        <stop lane="2/3to2/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/3to2/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="402" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/1to2/1"/>
-        <stop lane="1/1to2/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/1to2/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="403" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="0/1to0/0"/>
-        <stop lane="0/1to0/0_0" endPos="500.00" until="600.00"/>
+        <stop lane="0/1to0/0_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="404" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="3/1to3/2"/>
-        <stop lane="3/1to3/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="3/1to3/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="405" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/1to3/1"/>
-        <stop lane="2/1to3/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/1to3/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="406" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/3to2/3"/>
-        <stop lane="1/3to2/3_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/3to2/3_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="407" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/1to0/1"/>
-        <stop lane="1/1to0/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/1to0/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="408" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="0/2to0/3"/>
-        <stop lane="0/2to0/3_0" endPos="500.00" until="600.00"/>
+        <stop lane="0/2to0/3_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="409" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="3/3to2/3"/>
-        <stop lane="3/3to2/3_0" endPos="500.00" until="600.00"/>
+        <stop lane="3/3to2/3_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="410" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="3/3to3/2"/>
-        <stop lane="3/3to3/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="3/3to3/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="411" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/1to1/2"/>
-        <stop lane="1/1to1/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/1to1/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="412" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/2to2/2"/>
-        <stop lane="1/2to2/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/2to2/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="413" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="0/0to0/1"/>
-        <stop lane="0/0to0/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="0/0to0/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="414" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/2to1/1"/>
-        <stop lane="1/2to1/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/2to1/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="415" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/0to3/0"/>
-        <stop lane="2/0to3/0_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/0to3/0_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="416" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/2to3/2"/>
-        <stop lane="2/2to3/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/2to3/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="417" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/2to2/1"/>
-        <stop lane="2/2to2/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/2to2/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="418" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/2to2/3"/>
-        <stop lane="2/2to2/3_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/2to2/3_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="419" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/2to0/2"/>
-        <stop lane="1/2to0/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/2to0/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="420" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="3/0to2/0"/>
-        <stop lane="3/0to2/0_0" endPos="500.00" until="600.00"/>
+        <stop lane="3/0to2/0_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="421" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="0/1to1/1"/>
-        <stop lane="0/1to1/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="0/1to1/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="422" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="0/0to1/0"/>
-        <stop lane="0/0to1/0_0" endPos="500.00" until="600.00"/>
+        <stop lane="0/0to1/0_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="423" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="0/3to1/3"/>
-        <stop lane="0/3to1/3_0" endPos="500.00" until="600.00"/>
+        <stop lane="0/3to1/3_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="424" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="3/1to2/1"/>
-        <stop lane="3/1to2/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="3/1to2/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="425" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="0/2to1/2"/>
-        <stop lane="0/2to1/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="0/2to1/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="426" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/0to1/1"/>
-        <stop lane="1/0to1/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/0to1/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="427" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/1to2/0"/>
-        <stop lane="2/1to2/0_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/1to2/0_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="428" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/1to1/1"/>
-        <stop lane="2/1to1/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/1to1/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="429" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/0to1/0"/>
-        <stop lane="2/0to1/0_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/0to1/0_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="430" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/0to2/1"/>
-        <stop lane="2/0to2/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/0to2/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="431" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/2to1/2"/>
-        <stop lane="2/2to1/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/2to1/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="432" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/1to2/2"/>
-        <stop lane="2/1to2/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/1to2/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="433" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="3/2to3/1"/>
-        <stop lane="3/2to3/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="3/2to3/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="434" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/3to1/3"/>
-        <stop lane="2/3to1/3_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/3to1/3_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="435" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="3/0to3/1"/>
-        <stop lane="3/0to3/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="3/0to3/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="436" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="0/2to0/1"/>
-        <stop lane="0/2to0/1_0" endPos="500.00" until="600.00"/>
+        <stop lane="0/2to0/1_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="437" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/3to1/2"/>
-        <stop lane="1/3to1/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/3to1/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="438" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="3/2to3/3"/>
-        <stop lane="3/2to3/3_0" endPos="500.00" until="600.00"/>
+        <stop lane="3/2to3/3_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="439" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/0to0/0"/>
-        <stop lane="1/0to0/0_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/0to0/0_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="440" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/2to1/3"/>
-        <stop lane="1/2to1/3_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/2to1/3_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="441" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/1to1/0"/>
-        <stop lane="1/1to1/0_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/1to1/0_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="442" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/3to0/3"/>
-        <stop lane="1/3to0/3_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/3to0/3_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="443" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="0/1to0/2"/>
-        <stop lane="0/1to0/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="0/1to0/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="444" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="0/3to0/2"/>
-        <stop lane="0/3to0/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="0/3to0/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="445" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="1/0to2/0"/>
-        <stop lane="1/0to2/0_0" endPos="500.00" until="600.00"/>
+        <stop lane="1/0to2/0_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="446" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="2/3to3/3"/>
-        <stop lane="2/3to3/3_0" endPos="500.00" until="600.00"/>
+        <stop lane="2/3to3/3_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="447" type="BUS" depart="0.00" departPos="500.00" color="white">
         <route edges="3/2to2/2"/>
-        <stop lane="3/2to2/2_0" endPos="500.00" until="600.00"/>
+        <stop lane="3/2to2/2_0" endPos="500.00" until="668"/>
     </vehicle>
     <vehicle id="1" depart="0.05" departLane="best">
         <route edges="2/0to1/0 1/0to1/1"/>
