@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 12/14/17 20:10:57 by SUMO duarouter Version 0.24.0
+<!-- generated on 12/15/17 19:47:26 by SUMO duarouter Version 0.24.0
 <?xml version="1.0" encoding="UTF-8"?>
 
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
@@ -30,97 +30,97 @@
         </routeDistribution>
     </vehicle>
     <vType id="RSU" guiShape="bus" color="red"/>
-    <vehicle id="10000" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="101" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="3/2to3/1"/>
         </routeDistribution>
         <stop lane="3/2to3/1_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10001" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="102" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="2/1to2/0"/>
         </routeDistribution>
         <stop lane="2/1to2/0_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10002" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="103" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="0/2to0/1"/>
         </routeDistribution>
         <stop lane="0/2to0/1_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10003" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="104" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="3/3to3/2"/>
         </routeDistribution>
         <stop lane="3/3to3/2_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10004" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="105" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="1/1to1/0"/>
         </routeDistribution>
         <stop lane="1/1to1/0_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10005" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="106" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="2/3to2/2"/>
         </routeDistribution>
         <stop lane="2/3to2/2_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10006" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="107" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="3/3to2/3"/>
         </routeDistribution>
         <stop lane="3/3to2/3_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10007" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="108" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="0/1to0/0"/>
         </routeDistribution>
         <stop lane="0/1to0/0_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10008" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="109" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="1/3to1/2"/>
         </routeDistribution>
         <stop lane="1/3to1/2_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10009" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="110" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="0/3to0/2"/>
         </routeDistribution>
         <stop lane="0/3to0/2_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10010" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="111" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="2/3to1/3"/>
         </routeDistribution>
         <stop lane="2/3to1/3_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10011" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="112" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="3/1to3/0"/>
         </routeDistribution>
         <stop lane="3/1to3/0_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10012" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="113" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="1/3to0/3"/>
         </routeDistribution>
         <stop lane="1/3to0/3_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10013" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="114" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="3/2to3/3"/>
         </routeDistribution>
         <stop lane="3/2to3/3_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10014" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="115" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="1/2to1/1"/>
         </routeDistribution>
         <stop lane="1/2to1/1_0" endPos="1000.00" until="600.00" parking="1"/>
     </vehicle>
-    <vehicle id="10015" type="RSU" depart="0.00" departPos="1000.00" color="red">
+    <vehicle id="116" type="RSU" depart="0.00" departPos="1000.00" color="red">
         <routeDistribution last="0">
             <route cost="66.67" probability="1.00000000" edges="2/2to2/1"/>
         </routeDistribution>
