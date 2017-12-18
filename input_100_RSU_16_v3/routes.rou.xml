@@ -389,7 +389,7 @@
     <vehicle id="99" depart="19.80" departLane="best">
         <route edges="2/1to1/1 1/1to1/2 1/2to2/2 2/2to3/2 3/2to3/1"/>
     </vehicle>
-    <vehicle id="100" depart="600.00" departLane="best">
+    <vehicle id="100" depart="20.00" departLane="best">
         <route edges="3/3to3/2 3/2to2/2 2/2to1/2 1/2to1/3 1/3to1/2"/>
     </vehicle>
 </routes>
