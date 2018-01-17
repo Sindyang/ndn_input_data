@@ -1,0 +1,68 @@
+<additional>
+	<vType id="RSU" color="255,0,0" guiShape="bus"/>
+
+	<vehicle id="250" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="3/2to3/1"/>
+		<stop lane="3/2to3/1_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="251" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="2/1to2/0"/>
+		<stop lane="2/1to2/0_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="252" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="0/2to0/1"/>
+		<stop lane="0/2to0/1_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="253" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="3/3to3/2"/>
+		<stop lane="3/3to3/2_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="254" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="1/1to1/0"/>
+		<stop lane="1/1to1/0_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="255" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="2/3to2/2"/>
+		<stop lane="2/3to2/2_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="256" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="3/3to2/3"/>
+		<stop lane="3/3to2/3_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="257" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="0/1to0/0"/>
+		<stop lane="0/1to0/0_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="258" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="1/3to1/2"/>
+		<stop lane="1/3to1/2_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="259" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="0/3to0/2"/>
+		<stop lane="0/3to0/2_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="260" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="2/3to1/3"/>
+		<stop lane="2/3to1/3_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="261" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="3/1to3/0"/>
+		<stop lane="3/1to3/0_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="262" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="1/3to0/3"/>
+		<stop lane="1/3to0/3_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="263" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="3/2to3/3"/>
+		<stop lane="3/2to3/3_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="264" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="1/2to1/1"/>
+		<stop lane="1/2to1/1_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+	<vehicle id="265" type="RSU" depart="0" departPos="1000.00" color="255,0,0">
+		<route edges="2/2to2/1"/>
+		<stop lane="2/2to2/1_0" parking="true" endPos="1000.00" until="599"/>
+	</vehicle>
+</additional>
