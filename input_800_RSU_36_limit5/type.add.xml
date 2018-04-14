@@ -1,0 +1,148 @@
+<additional>
+	<vType id="RSU" color="255,0,0" guiShape="bus"/>
+
+	<vehicle id="800" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="1/5to1/4"/>
+		<stop lane="1/5to1/4_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="801" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="2/1to2/0"/>
+		<stop lane="2/1to2/0_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="802" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="3/3to3/2"/>
+		<stop lane="3/3to3/2_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="803" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="3/5to2/5"/>
+		<stop lane="3/5to2/5_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="804" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="0/3to0/2"/>
+		<stop lane="0/3to0/2_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="805" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="2/5to1/5"/>
+		<stop lane="2/5to1/5_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="806" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="5/5to4/5"/>
+		<stop lane="5/5to4/5_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="807" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="5/4to5/5"/>
+		<stop lane="5/4to5/5_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="808" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="5/5to5/4"/>
+		<stop lane="5/5to5/4_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="809" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="0/2to0/1"/>
+		<stop lane="0/2to0/1_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="810" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="3/1to3/0"/>
+		<stop lane="3/1to3/0_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="811" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="1/3to1/2"/>
+		<stop lane="1/3to1/2_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="812" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="0/4to0/3"/>
+		<stop lane="0/4to0/3_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="813" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="1/5to0/5"/>
+		<stop lane="1/5to0/5_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="814" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="3/4to3/3"/>
+		<stop lane="3/4to3/3_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="815" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="2/4to2/3"/>
+		<stop lane="2/4to2/3_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="816" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="1/2to1/1"/>
+		<stop lane="1/2to1/1_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="817" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="2/2to2/1"/>
+		<stop lane="2/2to2/1_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="818" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="3/2to3/1"/>
+		<stop lane="3/2to3/1_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="819" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="2/3to2/2"/>
+		<stop lane="2/3to2/2_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="820" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="5/3to5/2"/>
+		<stop lane="5/3to5/2_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="821" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="1/4to1/3"/>
+		<stop lane="1/4to1/3_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="822" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="4/5to4/4"/>
+		<stop lane="4/5to4/4_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="823" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="5/4to5/3"/>
+		<stop lane="5/4to5/3_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="824" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="2/5to2/4"/>
+		<stop lane="2/5to2/4_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="825" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="4/2to4/1"/>
+		<stop lane="4/2to4/1_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="826" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="4/3to4/2"/>
+		<stop lane="4/3to4/2_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="827" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="5/2to5/1"/>
+		<stop lane="5/2to5/1_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="828" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="4/1to4/0"/>
+		<stop lane="4/1to4/0_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="829" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="5/1to5/0"/>
+		<stop lane="5/1to5/0_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="830" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="1/1to1/0"/>
+		<stop lane="1/1to1/0_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="831" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="0/5to0/4"/>
+		<stop lane="0/5to0/4_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="832" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="3/5to3/4"/>
+		<stop lane="3/5to3/4_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="833" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="0/1to0/0"/>
+		<stop lane="0/1to0/0_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="834" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="4/4to4/3"/>
+		<stop lane="4/4to4/3_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+	<vehicle id="835" type="RSU" depart="0" departPos="999.0" color="255,0,0">
+		<route edges="4/5to3/5"/>
+		<stop lane="4/5to3/5_0" parking="true" endPos="999.0" until="899"/>
+	</vehicle>
+</additional>
