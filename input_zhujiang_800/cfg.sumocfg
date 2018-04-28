@@ -4,5 +4,10 @@
         <net-file value="input_net.net.xml"/>
         <route-files value="routes.rou.xml"/>
     </input>
+	
+	<time>
+         <begin value="0"/>
+         <end value="660"/>
+    </time>
 
 </configuration>
