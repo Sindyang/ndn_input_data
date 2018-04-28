@@ -1405,10 +1405,6 @@
         <route edges="491"/>
         <stop lane="491_0" endPos="76.08" until="659.00" parking="1"/>
     </vehicle>
-    <vehicle id="1345" type="RSU" depart="0.00" departPos="26.99" color="red">
-        <route edges="658"/>
-        <stop lane="658_0" endPos="26.99" until="659.00" parking="1"/>
-    </vehicle>
     <vehicle id="800" type="RSU" depart="0.00" departPos="84.29" color="red">
         <route edges="198#2"/>
         <stop lane="198#2_0" endPos="84.29" until="659.00" parking="1"/>
